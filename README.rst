@@ -24,7 +24,7 @@ Installing
 Installing is easy:
 
 #. Download the filters from `here <https://raw.githubusercontent.com/Blendify/college-filters/master/mailFilters.xml>`__
-   DOwnload the files by right clicking and select *Save As...*
+   Download the files by right clicking and select *Save As...*
 #. Open Gmail's email filters editor by going to :menuselection:`Settings --> Filters and Blocked Addresses`
 #. Install the filters:
 

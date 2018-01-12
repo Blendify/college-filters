@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
 	<title>Mail Filters</title>
-	<id>tag:mail.google.com,2008:filters:1515696875268,1515698058410</id>
-	<updated>2018-01-11T19:34:01Z</updated>
+	<id>tag:mail.google.com,2008:filters:1515696875268,1515722945665</id>
+	<updated>2018-01-12T02:09:46Z</updated>
 	<author>
 		<name>Aaron Carlisle</name>
 		<email>carlisle.aaron00@gmail.com</email>
@@ -10,7 +10,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:1515696875268</id>
-		<updated>2018-01-11T19:34:01Z</updated>
+		<updated>2018-01-12T02:09:46Z</updated>
 		<content></content>
 		<apps:property name='from' value='(*@*.edu) OR (*@*collegeboard.org) OR (*College@*.org) OR (*@members.privatecolleges.com)'/>
 		<apps:property name='label' value='Colleges'/>
@@ -23,10 +23,11 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:1515698058410</id>
-		<updated>2018-01-11T19:34:01Z</updated>
+		<id>tag:mail.google.com,2008:filter:1515722945665</id>
+		<updated>2018-01-12T02:09:46Z</updated>
 		<content></content>
-		<apps:property name='hasTheWord' value='I obtained your contact information from the Student Search Service of the College Board'/>
+		<apps:property name='from' value='(*@*)'/>
+		<apps:property name='hasTheWord' value='&quot;Student Search Service of the College Board&quot;'/>
 		<apps:property name='label' value='Colleges'/>
 		<apps:property name='shouldArchive' value='true'/>
 		<apps:property name='shouldNeverSpam' value='true'/>

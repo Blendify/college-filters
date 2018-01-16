@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
 	<title>Mail Filters</title>
-	<id>tag:mail.google.com,2008:filters:1515696875268,1515722945665</id>
-	<updated>2018-01-12T02:09:46Z</updated>
+	<id>tag:mail.google.com,2008:filters:1515696875268,1516066729315</id>
+	<updated>2018-01-16T01:40:23Z</updated>
 	<author>
 		<name>Aaron Carlisle</name>
 		<email>carlisle.aaron00@gmail.com</email>
@@ -10,7 +10,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:1515696875268</id>
-		<updated>2018-01-12T02:09:46Z</updated>
+		<updated>2018-01-16T01:40:23Z</updated>
 		<content></content>
 		<apps:property name='from' value='(*@*.edu) OR (*@*collegeboard.org) OR (*College@*.org) OR (*@members.privatecolleges.com)'/>
 		<apps:property name='label' value='Colleges'/>
@@ -23,15 +23,15 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:1515722945665</id>
-		<updated>2018-01-12T02:09:46Z</updated>
+		<id>tag:mail.google.com,2008:filter:1516066729315</id>
+		<updated>2018-01-16T01:40:23Z</updated>
 		<content></content>
 		<apps:property name='from' value='(*@*)'/>
 		<apps:property name='hasTheWord' value='&quot;Student Search Service of the College Board&quot;'/>
 		<apps:property name='label' value='Colleges'/>
 		<apps:property name='shouldArchive' value='true'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
-		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>

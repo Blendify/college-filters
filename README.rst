@@ -32,5 +32,5 @@ Installing is easy:
       use this to download the file downloaded earlier.
    #. After selcting the file use :guilabel:`Open file` to import the filters.
    #. Finally you can use :guilabel:`Apply new filters to existing email`
-      or just finish with :guilabel:`Create filters`
+      and finish with :guilabel:`Create filters`
 #. Your college emails will now be sorted
